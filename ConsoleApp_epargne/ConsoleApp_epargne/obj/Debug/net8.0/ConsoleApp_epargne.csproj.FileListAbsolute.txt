@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\bin\Debug\net8.0\ConsoleApp_epargne.exe
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\bin\Debug\net8.0\ConsoleApp_epargne.deps.json
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\bin\Debug\net8.0\ConsoleApp_epargne.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\bin\Debug\net8.0\ConsoleApp_epargne.dll
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\bin\Debug\net8.0\ConsoleApp_epargne.pdb
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.dll
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\refint\ConsoleApp_epargne.dll
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.pdb
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ConsoleApp_epargne.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp_epargne\ConsoleApp_epargne\obj\Debug\net8.0\ref\ConsoleApp_epargne.dll
